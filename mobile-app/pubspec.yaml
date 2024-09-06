@@ -28,7 +28,7 @@ dependencies:
   flutter:
     sdk: flutter
 
-  cupertino_icons: ^1.0.2
+  cupertino_icons: ^1.0.8
   # A Flutter package to use fonts from fonts.google.com.
   google_fonts: ^6.2.1
   # A splash screen for flutter, with android native splash and ios native splash.

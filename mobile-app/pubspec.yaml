@@ -36,7 +36,7 @@ dependencies:
   # An SVG rendering and widget library for Flutter, which allows painting and displaying Scalable Vector Graphics 1.1 files.
   flutter_svg: ^2.0.10+1
   # Flutter plugin to play multiple audio files simultaneously
-  audioplayers: ^6.0.0
+  audioplayers: ^6.1.0
   # Bloc state management package
   flutter_bloc: ^8.1.6
   # Object Equality

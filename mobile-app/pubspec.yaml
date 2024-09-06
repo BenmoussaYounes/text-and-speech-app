@@ -44,7 +44,7 @@ dependencies:
   # Functional programming
   dartz: ^0.10.1
   # networking package, supports Interceptors, Aborting and canceling a request, Custom adapters, Transformers, etc.
-  dio: ^5.4.3+1
+  dio: ^5.7.0
 
 dev_dependencies:
   flutter_test:

@@ -32,7 +32,7 @@ dependencies:
   # A Flutter package to use fonts from fonts.google.com.
   google_fonts: ^6.2.1
   # A splash screen for flutter, with android native splash and ios native splash.
-  flutter_native_splash: ^2.4.0
+  flutter_native_splash: ^2.4.1
   # An SVG rendering and widget library for Flutter, which allows painting and displaying Scalable Vector Graphics 1.1 files.
   flutter_svg: ^2.0.10+1
   # Flutter plugin to play multiple audio files simultaneously
